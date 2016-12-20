@@ -1,0 +1,8 @@
+title: Asia stdteacher
+description: 期末評鑑快速問卷填寫
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
